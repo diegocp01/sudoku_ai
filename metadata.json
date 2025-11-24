@@ -1,0 +1,5 @@
+{
+  "name": "Sudoku Lens",
+  "description": "Snap a photo or upload an image of a Sudoku puzzle. The AI extracts the grid, and the app solves it instantly.",
+  "requestFramePermissions": []
+}
